@@ -1,6 +1,12 @@
 # accept-reject-method_visualization
 R Shiny app to visualize the acceptance-rejection method to sample from a user-specified probability density function.
 
+
+link to the application:
+https://dheemann.shinyapps.io/Accept_Reject_Sampling/
+
+
+
 ![accept_reject](https://user-images.githubusercontent.com/36103689/48264018-5e7ee780-e428-11e8-8551-cfa8b7cb5303.png)
 
 
